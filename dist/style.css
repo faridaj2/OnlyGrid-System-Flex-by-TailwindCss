@@ -116,7 +116,6 @@ h1 {
 .copy {
 	display: flex;
 	background-color: var(--black);
-	max-width: 400px;
 	padding: 1rem;
 	border-radius: 1rem;
 	color: var(--color);
